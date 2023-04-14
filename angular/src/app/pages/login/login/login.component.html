@@ -1,0 +1,10 @@
+  <h2>Acceder</h2>
+  <h3>Inicia sesión en CnC</h3>
+  <form>
+    <div class="form__login">
+        <input [(ngModel)]="email" class="form-control" type="email" placeholder="tuemail@email.com" name="email">
+        <input [(ngModel)]="pwd" class="form-control"  type="password" placeholder="tu contraseña" name="password">
+        <small>{{error}}</small>
+        <button class="buttonLogin" (click)="login()">Entrar</button>
+    </div>
+  </form>

@@ -1,0 +1,27 @@
+<section>
+    <h2 class="title__manage">
+        Aquí puedes agregar peliculas
+    </h2>
+    <form class="formFilm" novalidate [formGroup]="filmForm" (ngSubmit)="onSubmit()">
+        <label class="labelTitle" for="title">Título de la peli</label>
+        <input class="inputText" type="text" id="title" formControlName="title">
+
+        <label class="labelTitle" for="title">URL del poster</label>
+        <input class="inputText" type="text" id="cover" formControlName="cover">
+
+        <label class="labelTitle" for="title">Empresa</label>
+        <input class="inputText" type="text" id="company" formControlName="company">
+
+        <label class="labelTitle" for="title">Año de estreno</label>
+        <input class="inputText" type="text" id="year" formControlName="year">
+
+        <label class="labelTitle" for="title">Director</label>
+        <input class="inputText" type="text" id="author" formControlName="author">
+
+        <label class="labelTitle" for="title">Nota</label>
+        <input class="inputText" type="text" id="rate" formControlName="rate">
+
+        <button class="buttonForm" type="submit" (click)="onSubmit()">Enviar</button>
+        <button class="buttonForm" (click)="delete()">Eliminar</button>
+    </form>
+</section>

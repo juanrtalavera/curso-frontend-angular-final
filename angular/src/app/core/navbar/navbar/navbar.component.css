@@ -1,0 +1,27 @@
+nav ul {
+      height: 40px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      background-color: #79191E;
+      padding: 8px;
+      list-style: none;
+  }
+
+
+
+a {
+    color: white;
+    text-decoration: none;
+  }
+  
+.itemNavigator {
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 800;
+    font-size: 1rem;
+  }
+  
+.itemNavigator:hover {
+    color: #d80a11;
+  }

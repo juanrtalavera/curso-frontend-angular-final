@@ -1,0 +1,16 @@
+<section class="section__gallery">
+    <h1 class="title__film">Nuestra cartelera</h1>
+    <div class="section__films">
+       <figure routerLink="/detail/{{film.id}}" class="film__card" *ngFor="let film of filmList | filter: searchText">
+          <img src="{{film.cover}}">
+          <h2 class="card__title">{{film.title}}</h2>
+          <h3>{{film.author}}</h3>
+          <span>{{film.rate}}</span>
+         <div class="film__info">
+          <h4>{{film.year}}</h4>
+          <h4>{{film.company}}</h4>
+         </div> 
+          <button class="button__card" (click)="catchFilm(film)">Editar pelicula</button>
+       </figure>
+    </div>
+ </section>

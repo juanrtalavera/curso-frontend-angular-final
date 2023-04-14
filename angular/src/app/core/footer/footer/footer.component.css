@@ -1,0 +1,42 @@
+.footerElements {
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #79191E;
+    padding: 32px;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+  }
+  
+.title__Footer {
+    color: white;
+    font-size: 26px;
+    font-family: "Roboto", sans-serif;
+}
+
+.tittleFooter {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    list-style: none;
+}
+
+.menuItem {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    list-style: none;
+}
+
+.menuItem:hover {
+    color: #d80a11;
+  }

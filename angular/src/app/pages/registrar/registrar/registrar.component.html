@@ -1,0 +1,12 @@
+<section>
+    <h2>Registrate para añadir tu colección</h2>
+    <form>
+        <div class="form__register">
+            <label class="labelRegister" for="email">E-mail</label><br>
+            <input [(ngModel)]="email" class="form-control" type="email" placeholder="tuemail@email.com" name="email"><br>
+            <label class="labelRegister" for="password">Contraseña</label><br>
+            <input [(ngModel)]="pwd" class="form-control"  type="password" placeholder="una contraseña" name="password"><br>
+            <button class="buttonRegister" (click)="registrar()">Registrarme</button>
+        </div>
+    </form>
+</section>

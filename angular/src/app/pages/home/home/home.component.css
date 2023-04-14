@@ -1,0 +1,39 @@
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    color: white;
+  }
+  
+  h2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    margin-bottom: 4px;
+    color: white;
+  }
+
+  h3 {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 4px;
+    color: white;
+  }
+  
+  .section__home {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8);
+    background-image: center;
+    background-image: no-repeat;
+    background-size: cover;
+  }
+  
+  .title__home {
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+}

@@ -1,0 +1,220 @@
+{
+    "films": [
+      {
+			"title": "Toy Story",
+			"author": "John Lasseter",
+			"company": "Pixar",
+            "cover": "https://m.media-amazon.com/images/I/A1b-xbMmYdL._AC_SY606_.jpg",
+			"year": "1995",
+			"rate": "8,3",
+			"id": 1
+			},
+			{
+			"title": "El Rey León",
+			"author": "Roger Allers, Rob Minkoff",
+			"company": "Disney",
+            "cover": "https://lafrikileria.com/48577/poster-el-rey-leon-long-live-91-x-61-cm.jpg",
+			"year": "1994",
+			"rate": "8,5",
+			"id": 2
+			},
+			{
+			"title": "La Sirenita",
+			"author": "Ron Clements, John Musker",
+			"company": "Disney",
+			"cover": "https://i0.wp.com/cuatrobastardos.com/wp-content/uploads/2023/03/335480637_1306064160251937_7243328490354812997_n.png?resize=1080%2C1350&ssl=1",			
+			"year": "1989",
+			"rate": "7,6",
+			"id": 3
+			},
+			{
+			"title": "La Bella y la Bestia",
+			"author": "Gary Trousdale, Kirk Wise",
+			"company": "Disney",
+			"cover": "https://2.bp.blogspot.com/-FEz_yzcikx8/TruEYMz9DQI/AAAAAAAAL70/nrIZbFJq9i4/s1600/bella3d.jpg",
+			"year": "1991",
+			"rate": "8,0",
+			"id": 4
+			},
+			{
+			"title": "Aladdin",
+			"author": "Ron Clements, John Musker",
+			"company": "Disney",
+			"cover": "https://erikstore.com/21605-large_default/poster-disney-aladdin-one-sheet-pel%C3%ADculas-y-tv.jpg",
+			"year": "1992",
+			"rate": "8,0",
+			"id": 5
+			},
+			{
+			"title": "Buscando a Nemo",
+			"author": "Andrew Stanton",
+			"company": "Pixar",
+			"cover": "https://lumiere-a.akamaihd.net/v1/images/p_findingnemo_19752_05271d3f.jpeg",
+			"year": "2003",
+			"rate": "8,1",
+			"id": 6
+			},
+			{
+			"title": "Los Increíbles",
+			"author": "Brad Bird",
+			"company": "Pixar",
+			"cover": "https://www.cope.es/blogs/palomitas-de-maiz/wp-content/uploads/sites/6/2019/05/cartel-los-increibles.jpg",
+			"year": "2004",
+			"rate": "8,0",
+			"id": 7
+			},
+			{
+			"title": "Monsters Inc.",
+			"author": "Pete Docter",
+			"company": "Pixar",
+			"cover": "https://www.themoviedb.org/t/p/original/4Cp0L58Rg1bSJSsT6uw7OuU4nYc.jpg",
+			"year": "2001",
+			"rate": "8,1",
+			"id": 8
+			},
+			{
+			"title": "Wall-E",
+			"author": "Andrew Stanton",
+			"company": "Pixar",
+			"cover": "https://m.media-amazon.com/images/I/51RoZRgIHtL._AC_UF894,1000_QL80_.jpg",
+			"year": "2008",
+			"rate": "8,4",
+			"id": 9
+			},
+			{
+			"title": "Up",
+			"author": "Pete Docter",
+			"company": "Pixar",
+			"cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51Lvm2-UuEL.jpg",
+			"year": "2009",
+			"rate": "8,2",
+			"id": 10
+			},
+			{
+			"title": "Zootopia",
+			"author": "Byron Howard, Rich Moore",
+			"company": "Disney",
+			"cover": "https://static.wikia.nocookie.net/disney/images/4/48/Zootopia-Poster.jpg/revision/latest/scale-to-width-down/250?cb=20160921210422&path-prefix=es",
+			"year": "2016",
+			"rate": "8,0",
+			"id": 11
+			},
+			{
+			"title": "Coco",
+			"author": "Lee Unkrich",
+			"company": "Pixar",
+			"cover": "https://noescinetodoloquereluce.com/wp-content/uploads/2017/09/coco-9.jpg",
+			"year": "2017",
+			"rate": "8,4",
+			"id": 12
+			},
+			{
+			"title": "Frozen",
+			"author": "Chris Buck, Jennifer Lee",
+			"company": "Disney",
+			"cover": "https://m.media-amazon.com/images/I/81zbSEXnDOL.jpg",
+			"year": "2013",
+			"rate": "7,4",
+			"id": 13
+		 },
+	   {
+	    "title": "Moana",
+	    "author": "Ron Clements, John Musker",
+	    "company": "Disney",
+	    "cover": "https://www.mubis.es/media/users/8115/159430/poster-oficial-de-moana-original.jpg",
+	    "year": "2016",
+	    "rate": "7,6",
+	    "id": 14
+	  },
+	  {
+	    "title": "Ratatouille",
+	    "author": "Brad Bird",
+	    "company": "Pixar",
+	    "cover": "https://m.media-amazon.com/images/I/714TagaORGL.jpg",
+	    "year": "2007",
+	    "rate": "8,0",
+	    "id": 15
+	  },
+	  {
+	    "title": "La Princesa Mononoke",
+	    "author": "Hayao Miyazaki",
+	    "company": "Studio Ghibli",
+	    "cover": "https://cdn.shopify.com/s/files/1/1057/4964/products/Princess-Mononoke-Vintage-Movie-Poster-Original-Japanese-1-panel-20x29-8302_800x.progressive.jpg?v=1676350892",
+	    "year": "1997",
+	    "rate": "8,4",
+	    "id": 16
+	  },
+	  {
+	    "title": "Mi vecino Totoro",
+	    "author": "Hayao Miyazaki",
+	    "company": "Studio Ghibli",
+	    "cover": "https://static.carrefour.es/hd_510x_/imagenes/products/21000/00213/825/2100000213825/imagenGrande1.jpg",
+	    "year": "1988",
+	    "rate": "8,2",
+	    "id": 17
+	  },
+	  {
+	    "title": "El Viaje de Chihiro",
+	    "author": "Hayao Miyazaki",
+	    "company": "Studio Ghibli",
+	    "cover": "https://pbs.twimg.com/media/E1GiKlqXIJAMz4z?format=jpg&name=4096x4096",
+	    "year": "2001",
+	    "rate": "8,6",
+	    "id": 18
+	  },
+	  {
+	    "title": "El Castillo Ambulante",
+	    "author": "Hayao Miyazaki",
+	    "company": "Studio Ghibli",
+	    "cover": "https://pics.filmaffinity.com/hauru_no_ugoku_shiro-376386887-large.jpg",
+	    "year": "2004",
+	    "rate": "8,2",
+	    "id": 19
+	  },
+	  {
+	    "title": "Kiki's Delivery Service",
+	    "author": "Hayao Miyazaki",
+	    "company": "Studio Ghibli",
+	    "cover": "https://cdn.shopify.com/s/files/1/1057/4964/products/Kikis-Delivery-Service-Vintage-Movie-Poster-Original-Japanese-1-panel-20x29.jpg?v=1657083786",
+	    "year": "1989",
+	    "rate": "7,9",
+	    "id": 20
+	  },
+	  {
+	    "title": "Howl's Moving Castle",
+	    "author": "Hayao Miyazaki",
+	    "company": "Studio Ghibli",
+	    "cover": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+	    "year": "2004",
+	    "rate": "8,2",
+	    "id": 21
+	  },
+	  {
+	    "title": "Tangled",
+	    "author": "Nathan Greno, Byron Howard",
+	    "company": "Disney",
+	    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81G6xX1AlxL._AC_SL1500_.jpg",
+	    "year": "2010",
+	    "rate": "7,7",
+	    "id": 22
+	  },
+	  {
+	    "title": "Big Hero 6",
+	    "author": "Don Hall, Chris Williams",
+	    "company": "Disney",
+	    "cover": "https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/28242.jpg",
+	    "year": "2014",
+	    "rate": "7,8",
+	    "id": 23
+	  },
+	  {
+	    "title": "Rompe Ralph",
+	    "author": "Rich Moore",
+	    "company": "Disney",
+	    "cover": "https://static.posters.cz/image/750/posters/%C2%A1rompe-ralph-ralph-breaks-the-internet-i69164.jpg",
+	    "year": "2012",
+	    "rate": "7,7",
+	    "id": 24
+	  }
+    ]
+  }
